@@ -20,6 +20,7 @@
 
 
 ################################### the list constructor
-thislist = list(('ram','shyam','bhau'))
-print((thislist))
-
+#thislist = list(('ram','shyam','bhau'))
+#print((thislist))
+thislist = ['ram','shyam','bhanu']
+print(thislist[2])
